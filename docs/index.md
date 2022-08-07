@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Encontre o seu lugar
 
-You can use the [editor on GitHub](https://github.com/AltoPadraoTI/paginateste/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[COMPRAR](https://www.altopadraoimoveisthe.com.br/imoveis/a-venda)
+[ALUGAR](https://www.altopadraoimoveisthe.com.br/imoveis/alugar)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### SOBRE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sobre
+A historia da AltoPadrão Imobiliária começou com a especialista em imóveis, Janete Marques, quando ela decidiu em 2011 vir a Teresina no intuito de trabalhar com Administração de empresas. Porém foi na corretagem que ela descobriu sua verdadeira paixão, realizar o sonho de morar com elegância, começou a trabalhar com vendas de imóveis e graduou-se na área. A dedicação e amor pela profissão a fez ganhar diversas vezes o prêmio número 1 do ano em seu trabalho.
 
-```markdown
-Syntax highlighted code block
+Janete Capacitou-se dia a após dia para realizar o sonho de abrir a própria empresa. Com isso foi buscar conhecimento e inovação em São Paulo, Curitiba e Rio Grande do Sul, trazendo credibilidade e transparência ao seu trabalho. Dessa forma nasceu a AltoPadrão Imobiliário. Especializada nos melhores empreendimentos da zona Leste de Teresina. Venda, compra e locação. 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AltoPadraoTI/paginateste/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Nesse sonho de empreender, buscamos melhor flexibilidade de descontos ao nosso cliente levando muita transparência em todo processo na aquisição do imóvel. Nosso atendimento não é feito por uma única pessoa e sim por uma equipe comprometida em levar o melhor atendimento ao cliente. Oferecendo respeito, atenção e credibilidade.
